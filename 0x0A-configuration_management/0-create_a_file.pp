@@ -1,6 +1,6 @@
 # Creates a file in /tmp
 
-file { '/tmp/School':
+file { '/tmp/school':
 
   content => 'I love Puppet',
 
