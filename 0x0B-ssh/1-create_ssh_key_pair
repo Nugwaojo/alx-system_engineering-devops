@@ -4,7 +4,7 @@
 # Define variables
 KEY_NAME="school"
 BITS=4096
-PASSPHRASE="betty"
+PASSPHRASE="icequeen21"
 
 # Generate the key pair
 ssh-keygen -t rsa -b $BITS -f "$KEY_NAME" -N "$PASSPHRASE"
