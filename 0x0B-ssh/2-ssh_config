@@ -1,3 +1,0 @@
-Host 100.25.129.22
-    IdentityFile ~/.ssh/school
-    PasswordAuthentication icequeen21
